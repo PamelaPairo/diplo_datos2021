@@ -16,3 +16,5 @@ A continuación se muestran los repositorios de las materias cursadas durante la
 
 ## Proyecto de Mentoría: Análisis de indicadores y noticias financieras
 - Repositorio de todos los laboratorios [aquí](https://github.com/Mentoria-Financiera-DiploDatos)
+
+Link de la [presentación del Proyecto](https://www.youtube.com/watch?v=V0tefFfP9vQ&t=11s&ab_channel=DiplomaturaenCienciadeDatos) en el canal de la Diplomatura.
