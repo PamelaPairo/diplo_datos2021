@@ -1,6 +1,8 @@
-# Material de la "Diplomatura en Ciencia de datos, Aprendizaje Automático y sus Aplicaciones"
+# Material de la "Diplomatura en Ciencia de datos, Aprendizaje Automático y sus Aplicaciones" de la FAMAF
 
 A continuación se muestran los repositorios de las materias cursadas durante la Diplomatura.
+
+Link para mas información acerca de la Diplomatura: https://diplodatos.famaf.unc.edu.ar/
 
 ## Materias Obligatorias:
 - [Análisis y Visualización de Datos](https://github.com/benjaminocampo/AyVD)
