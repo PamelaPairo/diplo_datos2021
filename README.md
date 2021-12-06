@@ -14,7 +14,7 @@ Link para mas información acerca de la Diplomatura: https://diplodatos.famaf.un
 ## Materias Optativas
 - Visión por Computadora
 - [Programación Distribuida sobre Grandes Volúmenes de Datos](https://github.com/benjaminocampo/diplodatos_bigdata)
-- AutoML
+- [AutoML](https://github.com/benjaminocampo/automl_autopytorch)
 
 ## Proyecto de Mentoría: Análisis de indicadores y noticias financieras
 - Repositorio de todos los laboratorios [aquí](https://github.com/Mentoria-Financiera-DiploDatos)
