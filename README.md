@@ -12,7 +12,7 @@ Link para mas información acerca de la Diplomatura: https://diplodatos.famaf.un
 - [Aprendizaje No Supervisado](https://github.com/AntoSambuceti/No-Supervisado)
 
 ## Materias Optativas
-- Visión por Computadora
+- [Visión por Computadora](https://github.com/PamelaPairo/vision_computadora)
 - [Programación Distribuida sobre Grandes Volúmenes de Datos](https://github.com/benjaminocampo/diplodatos_bigdata)
 - [AutoML](https://github.com/benjaminocampo/automl_autopytorch)
 
