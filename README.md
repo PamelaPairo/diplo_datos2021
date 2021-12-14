@@ -19,4 +19,6 @@ Link para mas información acerca de la Diplomatura: https://diplodatos.famaf.un
 ## Proyecto de Mentoría: Análisis de indicadores y noticias financieras
 - Repositorio de todos los laboratorios [aquí](https://github.com/Mentoria-Financiera-DiploDatos)
 
-Link de la [presentación del Proyecto](https://www.youtube.com/watch?v=V0tefFfP9vQ&t=11s&ab_channel=DiplomaturaenCienciadeDatos) en el canal de la Diplomatura.
+Cliquea en la imagen para ver el video final que resume el proyecto.
+
+[![Watch the video](https://imgur.com/V6QNiJa.jpg)](https://youtu.be/V0tefFfP9vQ&t=11s&ab_channel=DiplomaturaenCienciadeDatos)
